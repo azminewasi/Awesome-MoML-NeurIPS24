@@ -207,6 +207,7 @@ This repo contains a comprehensive compilation of **molecular ML** papers that w
 - [Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning](https://openreview.net/pdf?id=Ehsd856Ltb)
 - [HORSE: Hierarchical Representation for Large-Scale Neural Subset Selection](https://openreview.net/pdf?id=DONsOc7rY1)
 - [Learning Identifiable Factorized Causal Representations of Cellular Responses](https://openreview.net/pdf?id=AhlaBDHMQh)
+- [Pruning neural network models for gene regulatory dynamics using data and domain knowledge](https://openreview.net/forum?id=FNtsZLwkGr)
 - [Transferable Boltzmann Generators](https://openreview.net/pdf?id=AYq6GxxrrY)
 - [Persistent Homology for High-dimensional Data Based on Spectral Methods](https://openreview.net/pdf?id=ARV1gJSOzV)
 - [Exploring Molecular Pretraining Model at Scale](https://openreview.net/pdf?id=64V40K2fDv)
@@ -217,7 +218,6 @@ This repo contains a comprehensive compilation of **molecular ML** papers that w
 - [AdaNovo: Towards Robust De Novo Peptide Sequencing in Proteomics against Data Biases](https://openreview.net/pdf?id=0zfUiSX5si)
 - [ProtGO: Function-Guided Protein Modeling for Unified Representation Learning](https://openreview.net/pdf?id=0oUutV92YF)
 - [Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure](https://openreview.net/pdf?id=0e5uOaJxo1)
-
 
 
 ---
